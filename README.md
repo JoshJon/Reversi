@@ -35,9 +35,6 @@ An example of the board structure can be found below.
  8 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 ------------------------------------
 ====================================
-
-- R & B represent red and blue tokens respectively.
-- Tokens are actually colored in game
 ```
 
 ## Compiling and Running
