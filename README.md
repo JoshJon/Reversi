@@ -1,8 +1,5 @@
 # Reversi
 
-Something from when I was still a noob at coding 🙃
-
-## About
 Reversi is a classic board game for two players just like chess, checkers and go.
 
 ### Rules
